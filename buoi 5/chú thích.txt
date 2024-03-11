@@ -1,0 +1,5 @@
+- this, scones { global, local, charm, lexical}
+- call và apply
+- binds
+- closure
+
