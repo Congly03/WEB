@@ -1,0 +1,5 @@
+- Dow, WEb 2.0, AJAX
+- Thêm,xoá,sửa + events-based programing(clink button) + Socket
+- Dow : truy cập , chỉnh sửaa các cấu trúc của văn bản 
+- từng thành phần trong Dow được coi là 1 Object
+- chỉnh sủa hành vi 
